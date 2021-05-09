@@ -12,7 +12,9 @@ const messageData = {
 function HW1() {
     return (
         <div>
+            <hr/>
             homeworks 1
+            <hr/>
             <hr/>
 
             <div>
@@ -24,7 +26,9 @@ function HW1() {
                 />
 
             </div>
-            <AlternativeMessage btn={'Отправить'} text={"What to buy"}/>
+            <AlternativeMessage btn={'Отправить'} text={'What to buy'}/>
+
+            <hr/>
         </div>
     )
 }

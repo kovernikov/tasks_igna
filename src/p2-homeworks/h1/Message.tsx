@@ -12,13 +12,13 @@ function Message(props: MessageDataType) {
     return (
         <div className={s.message}>
             <div className={s.container}>
-                <img src={props.avatar} alt="avatar"/>
+                <img className={s.img} src={props.avatar} alt="avatar"/>
                 <div className={s.messageData}>
                     <div className={s.titleData}>
-                        <span>{props.name}</span>
-                        <p>{props.message}</p>
+                        <span className={s.span}>{props.name}</span>
+                        <p className={s.p}>{props.message}</p>
                     </div>
-                    <span>{props.time}</span>
+                    <span className={s.span}>{props.time}</span>
                 </div>
             </div>
         </div>

@@ -13,8 +13,8 @@ function HW1() {
     return (
         <div>
             <hr/>
-            homeworks 1
             <hr/>
+            homeworks 1
             <hr/>
 
             <div>

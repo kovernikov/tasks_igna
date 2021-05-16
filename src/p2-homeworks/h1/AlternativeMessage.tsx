@@ -12,7 +12,7 @@ function AlternativeMessage(props: AlternativeMessageType) {
 
     return (
         <div>
-            <input value={props.text}/>
+            <input className={s.input} value={props.text}/>
             <button>Отправит</button>
         </div>
     );

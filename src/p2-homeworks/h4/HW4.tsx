@@ -21,8 +21,9 @@ function HW4() {
 
     return (
         <div>
-            <hr/>
             homeworks 4
+            <hr/>
+
 
             <div className={s.column}>
                 <SuperInputText
@@ -34,7 +35,7 @@ function HW4() {
                 />
 
                 <SuperInputText
-                    className={s.blue} // проверьте, рабоет ли смешивание классов
+                    className={error ? s.blue : s.testSpanError  } // проверьте, рабоет ли смешивание классов
                 />
 
                 {/*----------------------------------------------------*/}

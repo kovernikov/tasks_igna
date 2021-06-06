@@ -1,20 +1,21 @@
 {
   "files": {
     "main.css": "/tasks_igna/static/css/main.6aa725e8.chunk.css",
-    "main.js": "/tasks_igna/static/js/main.6554375c.chunk.js",
-    "main.js.map": "/tasks_igna/static/js/main.6554375c.chunk.js.map",
+    "main.js": "/tasks_igna/static/js/main.8789a2da.chunk.js",
+    "main.js.map": "/tasks_igna/static/js/main.8789a2da.chunk.js.map",
     "runtime-main.js": "/tasks_igna/static/js/runtime-main.e2c2f85d.js",
     "runtime-main.js.map": "/tasks_igna/static/js/runtime-main.e2c2f85d.js.map",
     "static/js/2.b39efaa2.chunk.js": "/tasks_igna/static/js/2.b39efaa2.chunk.js",
     "static/js/2.b39efaa2.chunk.js.map": "/tasks_igna/static/js/2.b39efaa2.chunk.js.map",
     "index.html": "/tasks_igna/index.html",
     "static/css/main.6aa725e8.chunk.css.map": "/tasks_igna/static/css/main.6aa725e8.chunk.css.map",
-    "static/js/2.b39efaa2.chunk.js.LICENSE.txt": "/tasks_igna/static/js/2.b39efaa2.chunk.js.LICENSE.txt"
+    "static/js/2.b39efaa2.chunk.js.LICENSE.txt": "/tasks_igna/static/js/2.b39efaa2.chunk.js.LICENSE.txt",
+    "static/media/team_6.6339401a.jpg": "/tasks_igna/static/media/team_6.6339401a.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.e2c2f85d.js",
     "static/js/2.b39efaa2.chunk.js",
     "static/css/main.6aa725e8.chunk.css",
-    "static/js/main.6554375c.chunk.js"
+    "static/js/main.8789a2da.chunk.js"
   ]
 }

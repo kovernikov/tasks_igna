@@ -1,6 +1,10 @@
+# Getting Started
+
+Application launch link[App link](https://kovernikov.github.io/tasks_igna).
+
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://kovernikov.github.io/tasks_igna).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 

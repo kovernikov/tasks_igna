@@ -1,6 +1,6 @@
 # Getting Started
 
-Application launch link[App link](https://kovernikov.github.io/tasks_igna).
+Application launch link ###[App link](https://kovernikov.github.io/tasks_igna).
 
 # Getting Started with Create React App
 
